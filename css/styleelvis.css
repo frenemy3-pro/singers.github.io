@@ -1,0 +1,98 @@
+body {
+    font-family: "URW Chancery L", cursive;
+    background-color: #f5f7fa;
+}
+
+.main-conteiner {
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1200px;
+    background-color: white;
+    margin: 40px auto;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0.11);
+}
+
+/* Main content */
+
+.main-content-section {
+    padding: 100px 90px;
+}
+
+.main-content-title {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 27px;
+    color: black;
+    margin-bottom: 10px;
+}
+
+/* About elvis */
+.about-elvis-section {
+    margin-bottom: 40px;
+}
+
+.about-elvis {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 45px;
+    line-height: 55px;
+    margin: 0 0 25px 0;
+    color: black;
+}
+
+
+/* Musick */
+
+.musick {
+    margin: 0 0 50px 0;
+}
+
+.musick-list {
+    padding: 0 0 0 17px;
+}
+
+.elvis-musick {
+    color: black;
+    font-weight: bold;
+}
+
+.musick-text {
+    font-size: 14px;
+    font-style: normal;
+    line-height: 24px;
+    font-weight: normal;
+    color: #595959;
+    margin-left: 5px;
+}
+
+/* Life and path */
+
+.life-path {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    margin: 10px 0 10px 0;
+}
+
+.info {
+    padding: 0 0 0 18px;
+}
+
+.information {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+
+
+/* Sidebar section */
+
+.sidebar-section {
+    background-color: #4a4a4b;
+    width: 390px;
+    padding: 40px 0;
+}
