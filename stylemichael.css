@@ -68,25 +68,12 @@ body {
 
 /* Life and path */
 
-.my-work-experience-company {
-  color: #fb6d3a;
-}
-
 .life-path {
   font-style: normal;
   font-weight: bold;
   font-size: 16px;
   line-height: 20px;
   margin: 10px 0 10px 0;
-}
-
-.period {
-  font-style: normal;
-  font-weight: normal;
-  font-size: 12px;
-  line-height: 15px;
-  margin: 0 0 10px 0;
-  color: #aba8a8;
 }
 
 .info {
