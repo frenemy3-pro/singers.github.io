@@ -51,6 +51,7 @@ body {
 
 .musick-list {
   padding: 0 0 0 17px;
+  list-style-type: none;
 }
 
 .michael-musick {
