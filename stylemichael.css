@@ -89,10 +89,6 @@ body {
   color: #aba8a8;
 }
 
-.divider {
-  color: black;
-}
-
 .info {
   padding: 0 0 0 18px;
 }
@@ -114,13 +110,6 @@ body {
   padding: 40px 0;
 }
 
-.contacts-section {
-  margin: 50px 0 0 40px;
-}
-.tech-skills {
-  margin: 50px 0 0 40px;
-}
-
 .sidebar-title {
   font-size: normal;
   font-weight: bold;
@@ -129,63 +118,4 @@ body {
   color: white;
   margin-bottom: 10px;
 }
-/* Contacts section */
 
-.contacts-section-type {
-  font-weight: bold;
-  font-size: 14px;
-  line-height: 24px;
-  color: white;
-  margin-right: 7px;
-}
-
-.contacts-section-link {
-  color: #565e6a;
-  font-style: normal;
-  font-weight: normal;
-  font-size: 14px;
-  line-height: 24px;
-}
-
-/* tech & soft skills */
-.tech-skills {
-  padding: 20px 0 40px 3px;
-}
-
-.tech-skills-list {
-  padding: 0 0 0 17px;
-}
-
-.tech-skills-item {
-  color: #fb6d3a;
-}
-
-.tech-skills-item-text {
-  font-size: normal;
-  font-weight: normal;
-  font-size: 14px;
-  line-height: 24px;
-  color: white;
-}
-
-/* soft skills */
-
-.soft-skills {
-  padding: 0 0 0 42px;
-}
-
-.soft-skills-list {
-  padding: 0 0 0 17px;
-}
-
-.soft-skills-item {
-  color: #fb6d3a;
-}
-
-.soft-skills-item-text {
-  font-style: normal;
-  font-weight: normal;
-  font-size: 14px;
-  line-height: 24px;
-  color: white;
-}
