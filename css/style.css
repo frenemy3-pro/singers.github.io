@@ -1,6 +1,7 @@
 body {
     font-family: "URW Chancery L", cursive;
 }
-
-
-
+:link:hover {
+    background: rgb(246, 219, 219);
+    transition: 0.3s;
+}
